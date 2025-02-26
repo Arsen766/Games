@@ -23,7 +23,7 @@ body{
     align-items: center;
     position: relative;
     flex-direction: column;
-    background-image: url("../Image/backgroundFor1.jpg");
+    background-image: url("../Image/backgroundFor1.webp");
     background-size: 100vw 100vh;
     background-position: center;
 }
